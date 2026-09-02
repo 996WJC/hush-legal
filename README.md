@@ -47,4 +47,4 @@ Hush supports bidirectional sync with Apple Health via Apple's official HealthKi
 
 ---
 
-&copy; 2026 Hush. All rights reserved.
+&copy; 2026 Wenlong Wu. All rights reserved.
